@@ -88,8 +88,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 /** Sets up WordPress vars and included files. */
 require_once ABSPATH . 'wp-settings.php';
-=======
-<?php
+
 /**
  * The base configuration for WordPress
  *
@@ -179,4 +178,4 @@ if ( ! defined( 'ABSPATH' ) ) {
 
 /** Sets up WordPress vars and included files. */
 require_once ABSPATH . 'wp-settings.php';
->>>>>>> 2f1509658e16461da5512d3feee158bcd05ddbd0
+
